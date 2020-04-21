@@ -1,0 +1,11 @@
+{
+  "name": "file-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file-server.js",
+  "scripts": {
+    "serve": "node file-server.js"
+  },
+  "author": "Aditya Barve",
+  "license": "ISC"
+}

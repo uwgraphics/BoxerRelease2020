@@ -1,0 +1,36 @@
+{
+  "name": "vis-confusion",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "GENERATE_SOURCEMAP=false vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@types/d3": "^5.7.0",
+    "d3": "^5.9.1",
+    "d3-simple-slider": "^1.5.4",
+    "http": "0.0.0",
+    "silent": "^0.1.2",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.3",
+    "vuedraggable": "^2.23.2",
+    "vuetify": "^2.1.9",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-typescript": "^4.0.5",
+    "@vue/cli-service": "^4.0.5",
+    "deepmerge": "^4.2.2",
+    "fibers": "^4.0.2",
+    "sass": "^1.23.3",
+    "sass-loader": "^8.0.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "typescript": "^3.7.2",
+    "vue-cli-plugin-vuetify": "^2.0.2",
+    "vue-template-compiler": "^2.6.10",
+    "vuetify-loader": "^1.3.0"
+  }
+}

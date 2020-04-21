@@ -1,0 +1,11 @@
+{
+  "defaultSeverity": "warning",
+  "extends": [],
+  "linterOptions": {
+    "exclude": [
+      "node_modules/**",
+      "src/**"
+    ]
+  },
+  "rules": { "no-var-keyword": false }
+}
