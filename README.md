@@ -1,4 +1,4 @@
-# boxer-release
+# Boxer: Interactive Comparison of Classifier Results
 Boxer Classifier Comparison System - Public, Open Source Release
 
 ## Requirements
