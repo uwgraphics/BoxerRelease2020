@@ -1,6 +1,8 @@
 # Boxer: Interactive Comparison of Classifier Results
 Boxer Classifier Comparison System - Public, Open Source Release
 
+Note: this is the Spring 2020 release corresponding to the EuroVis 2020 paper. A new release, with the improved version of the system is coming soon.
+
 This repository contains the Open Source release of the Boxer system for classifier comparison.
 
 You can find more documentation about boxer as well as an online demo at
