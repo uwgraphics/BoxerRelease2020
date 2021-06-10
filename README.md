@@ -1,3 +1,5 @@
+## Attention: this repo only contains the code of original Boxer. Please visit [here](https://github.com/uwgraphics/BoxerRelease/) for the latest version. 
+
 # Boxer: Interactive Comparison of Classifier Results
 Boxer Classifier Comparison System - Public, Open Source Release
 
